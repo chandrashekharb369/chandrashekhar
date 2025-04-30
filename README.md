@@ -85,7 +85,7 @@ Feel free to reach out if you’re interested in discussing **cryptography**, **
 - **LinkedIn**: https://www.linkedin.com/in/chandrashekhar-b-b8a0b0363/
 - **Twitter**: [@Chandrashekhar](#)
 - **Portfolio**: [chandrashekhar.dev](#) (Coming soon!)
-- **Email**: [contact@chandrashekhar.com](mailto:contact@chandrashekhar.com)
+- **Email**: chandrashekharb2001@gmail.com
 
 ---
 
